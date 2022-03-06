@@ -1,6 +1,7 @@
 {
   "name": "vet-appointment-manager",
   "version": "0.0.0",
+  "homepage": "https://krisemm.github.io/vet-apppointment-manager/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
