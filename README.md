@@ -19,4 +19,4 @@ This project is a single page application made with react and that contains a fo
 
 ##### `docker-compose up -d`
 
-##### `visit into browser http:\\localhost:port/`
+##### `visit into browser http:\\localhost:3000/`
